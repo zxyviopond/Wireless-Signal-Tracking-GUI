@@ -1,0 +1,7 @@
+drop table AP;
+drop table Building;
+drop table people;
+drop index APINDEX;
+drop index BUILDINGINDEX;
+drop index PEOPLEINDEX;
+delete from USER_SDO_GEOM_METADATA
